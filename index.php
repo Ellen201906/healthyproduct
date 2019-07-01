@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0087)https://shopjianada.com/shopall/shopvip/productlist.php?cateid=0&featureid=1&callfrom=2 -->
 <html xmlns="http://www.w3.org/1999/xhtml" class="gr__shopjianada_com"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Shop Ship - Products</title>
@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width">
 
 
-	<link rel="stylesheet" type="text/css" href="./Shop Ship - Products_files/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 
 
 	<!-- enable/disable old mobile version -->
@@ -19,18 +19,18 @@
 	<link rel="icon" href="https://shopjianada.com/shopall/shopvip/images/pagetitlelogopng.gif" type="image/gif" sizes="20x20">
 
 	<!-- For jAlert etc.-->
-	<script src="./Shop Ship - Products_files/jquery-1.11.2.min.js.download"></script>
-	<script src="./Shop Ship - Products_files/jquery.form.js.download"></script>
+	<script src="jquery-1.11.2.min.js.download"></script>
+	<script src="jquery.form.js.download"></script>
 
 
 	<!--  Start For custom alert dialog -->
 
-			<script src="./Shop Ship - Products_files/jquery.js.download" type="text/javascript"></script>
-			<script src="./Shop Ship - Products_files/jquery.ui.draggable.js.download" type="text/javascript"></script>
+			<script src="jquery.js.download" type="text/javascript"></script>
+			<script src="jquery.ui.draggable.js.download" type="text/javascript"></script>
 			
 			<!-- Core files -->
-			<script src="./Shop Ship - Products_files/jquery.alerts.js.download" type="text/javascript"></script>
-			<link href="./Shop Ship - Products_files/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
+			<script src="jquery.alerts.js.download" type="text/javascript"></script>
+			<link href="jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
 
 	<!--  End For custom alert dialog -->
 
@@ -82,7 +82,7 @@
 
 	<!-- to enable new mobile version START-->
 	<!-- ================================================= -->
-	<script src="./Shop Ship - Products_files/uaredirect.js.download" type="text/javascript"></script>
+	<script src="uaredirect.js.download" type="text/javascript"></script>
 	<script type="text/javascript">    uaredirect("mobile/index.php");</script>
 	<!-- ================================================= -->
 	<!-- to enable new mobile version END-->
@@ -94,7 +94,7 @@
 
 	<!-- ===============================begin for desktop computer -- Start================================================== -->
 	 <div class="header large--hide"> 
-		<div class="logo large--hide"><a href="javascript:void(0)" onclick="window.location.href=&#39;index.php?menubarindex=1&#39;"><img src="./Shop Ship - Products_files/logo.gif" alt="" border="0" style="width:263px;height:66px;"></a></div>
+		<div class="logo large--hide"><a href="javascript:void(0)" onclick="window.location.href=&#39;index.php?menubarindex=1&#39;"><img src="logo.gif" alt="" border="0" style="width:263px;height:66px;"></a></div>
 
 		<div id="menu"> 
 		  <ul>
@@ -227,7 +227,7 @@ function keyPress(e){
     <!--end of left content-->
     <div id="left_content_ps" class="left_content">
       <div class="crumb_nav"> <a style="text-decoration:none;" href="javascript:void(0)" onclick="window.location.href=&#39;index.php&#39;">home</a> &gt;&gt; On sale </div>
-      <div class="title"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet5.gif" alt=""></span>Products - On sale</div>
+      <div class="title"><span class="title_icon"><img src="bullet5.gif" alt=""></span>Products - On sale</div>
       <div class="new_products">
 
 		  <div>
@@ -254,7 +254,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -271,7 +271,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=717&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/6881516116057.jpg" alt="" class="thumb" border="0" style="width:112px;height:162px;">
+					  <img src="6881516116057.jpg" alt="" class="thumb" border="0" style="width:112px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -291,7 +291,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -308,7 +308,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=564&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/4041537799523.jpg" alt="" class="thumb" border="0" style="width:103px;height:162px;">
+					  <img src="4041537799523.jpg" alt="" class="thumb" border="0" style="width:103px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -328,7 +328,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -345,7 +345,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=606&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/7721525213105.jpg" alt="" class="thumb" border="0" style="width:105px;height:162px;">
+					  <img src="7721525213105.jpg" alt="" class="thumb" border="0" style="width:105px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -365,7 +365,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -382,7 +382,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=720&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/6971516115782.jpg" alt="" class="thumb" border="0" style="width:87px;height:162px;">
+					  <img src="6971516115782.jpg" alt="" class="thumb" border="0" style="width:87px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -402,7 +402,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -419,7 +419,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=194&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/8151548476715.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="8151548476715.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -439,18 +439,18 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    						 <span class="new_icon_lb">
-						  <img src="./Shop Ship - Products_files/PreOrder.png" alt="" style="width:50px;height:50px;">
+						  <img src="PreOrder.png" alt="" style="width:50px;height:50px;">
 						  </span>
 					  
 					  
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=678&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/9931524682699.jpg" alt="" class="thumb" border="0" style="width:108px;height:162px;">
+					  <img src="9931524682699.jpg" alt="" class="thumb" border="0" style="width:108px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -470,7 +470,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -487,7 +487,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=387&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/7991525210903.jpg" alt="" class="thumb" border="0" style="width:117px;height:162px;">
+					  <img src="7991525210903.jpg" alt="" class="thumb" border="0" style="width:117px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -507,7 +507,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -524,7 +524,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=672&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/4831515213512.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="4831515213512.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -544,7 +544,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -561,7 +561,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=241&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/8061524104550.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="8061524104550.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -581,7 +581,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -598,7 +598,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=729&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/9091516320367.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="9091516320367.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -618,7 +618,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -635,7 +635,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=881&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/5771528138784.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="5771528138784.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -655,7 +655,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -672,7 +672,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=814&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/6141521754560.jpg" alt="" class="thumb" border="0" style="width:102px;height:162px;">
+					  <img src="6141521754560.jpg" alt="" class="thumb" border="0" style="width:102px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -692,7 +692,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -709,7 +709,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=180&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/9331545093090.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="9331545093090.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -729,7 +729,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -746,7 +746,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=616&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/6541518142305.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="6541518142305.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -766,7 +766,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -783,7 +783,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=733&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/7351516376849.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="7351516376849.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -803,18 +803,18 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    						 <span class="new_icon_lb">
-						  <img src="./Shop Ship - Products_files/PreOrder.png" alt="" style="width:50px;height:50px;">
+						  <img src="PreOrder.png" alt="" style="width:50px;height:50px;">
 						  </span>
 					  
 					  
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=734&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/5521516376315.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="5521516376315.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -834,7 +834,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -851,7 +851,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=630&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/4711544027152.jpg" alt="" class="thumb" border="0" style="width:87px;height:162px;">
+					  <img src="4711544027152.jpg" alt="" class="thumb" border="0" style="width:87px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -871,7 +871,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -888,7 +888,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=732&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/7101516376136.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
+					  <img src="7101516376136.jpg" alt="" class="thumb" border="0" style="width:162px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -908,7 +908,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -925,7 +925,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=440&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/8621523679694.jpg" alt="" class="thumb" border="0" style="width:153px;height:162px;">
+					  <img src="8621523679694.jpg" alt="" class="thumb" border="0" style="width:153px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -945,7 +945,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -962,7 +962,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=162&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/6031556664385.jpg" alt="" class="thumb" border="0" style="width:138px;height:162px;">
+					  <img src="6031556664385.jpg" alt="" class="thumb" border="0" style="width:138px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -982,7 +982,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -999,7 +999,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=104&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/8621541013707.jpg" alt="" class="thumb" border="0" style="width:100px;height:162px;">
+					  <img src="8621541013707.jpg" alt="" class="thumb" border="0" style="width:100px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -1019,7 +1019,7 @@ function keyPress(e){
 				  <div class="new_prod_bg"> 
 
 					  					  <span class="new_icon">
-					  <img src="./Shop Ship - Products_files/onsale_icon.gif" alt="" style="width:50px;height:50px;">
+					  <img src="onsale_icon.gif" alt="" style="width:50px;height:50px;">
 					  </span> 
 					  
 					    
@@ -1036,7 +1036,7 @@ function keyPress(e){
 
 
 					  <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=677&amp;qtytoorder=1&amp;fromprodpg=1&amp;onsaleavailable=1&#39;">
-					  <img src="./Shop Ship - Products_files/9971542495370.jpg" alt="" class="thumb" border="0" style="width:108px;height:162px;">
+					  <img src="9971542495370.jpg" alt="" class="thumb" border="0" style="width:108px;height:162px;">
 					  </a> 
 				  
 				  </div>
@@ -1125,7 +1125,7 @@ function gotoshoppingcart() {
 
 
       <div class="cart">
-        <div class="title"><span class="title_icon"><img src="./Shop Ship - Products_files/cart.gif" alt=""></span>My cart</div>
+        <div class="title"><span class="title_icon"><img src="cart.gif" alt=""></span>My cart</div>
         <div class="home_cart_content"> 0 items | <span class="red">TOTAL: $ 0</span> </div>
         <a class="view_cart" style="text-decoration:none;" href="javascript:void(0)" onclick="window.location.href=&#39;cartnew.php?initcart=1&#39;">view cart</a> 
 		
@@ -1136,7 +1136,7 @@ function gotoshoppingcart() {
 
 
       <div class="right_box mobile_hide">
-        <div class="title"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet5.gif" alt=""></span>New Product</div>
+        <div class="title"><span class="title_icon"><img src="bullet5.gif" alt=""></span>New Product</div>
 
 		<!-- <div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href='proddetails.php?prodid=65'">GlucosamineChondroitin</a><div class="new_prod_bg"> <span class="new_icon"><img src="images/promo_icon.gif" alt="" /></span> 
 <a  href="javascript:void(0)" onclick="window.location.href='proddetails.php?prodid=65'"><img src="./uploades/medium/6991554045849.jpg" alt="" class="thumb" border="0" /></a> </div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href='proddetails.php?prodid=67'">Osteo Joint Ease</a><div class="new_prod_bg"> <span class="new_icon"><img src="images/promo_icon.gif" alt="" /></span> 
@@ -1144,23 +1144,23 @@ function gotoshoppingcart() {
 <a  href="javascript:void(0)" onclick="window.location.href='proddetails.php?prodid=68'"><img src="./uploades/medium/7531528138396.jpg" alt="" class="thumb" border="0" /></a> </div></div><a class="more" href="javascript:void(0)" onclick="window.location.href='productlist.php?cateid=0&featureid=1'">- more products -</a>   bullet1 -->
 		<div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=964&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Sterols Sterolins Cholesterol 60</a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=964&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/6021561659838.jpg" alt="" class="thumb" border="0"></a> </div><div>$21.49</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=966&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Naturals Propolis Throat Spray for Kids</a><div class="new_prod_bg_2">
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=964&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="6021561659838.jpg" alt="" class="thumb" border="0"></a> </div><div>$21.49</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=966&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Naturals Propolis Throat Spray for Kids</a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=966&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/7621561661869.jpg" alt="" class="thumb" border="0"></a> </div><div>$13.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=965&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Generation </a><div class="new_prod_bg_2">
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=966&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="7621561661869.jpg" alt="" class="thumb" border="0"></a> </div><div>$13.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=965&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Generation </a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=965&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/4831561659019.jpg" alt="" class="thumb" border="0"></a> </div><div>$49.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=962&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Active Folic Acid</a><div class="new_prod_bg_2">
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=965&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="4831561659019.jpg" alt="" class="thumb" border="0"></a> </div><div>$49.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=962&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Active Folic Acid</a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=962&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/8721561658240.jpg" alt="" class="thumb" border="0"></a> </div><div>$8.49</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=963&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Candida Stop</a><div class="new_prod_bg_2">
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=962&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="8721561658240.jpg" alt="" class="thumb" border="0"></a> </div><div>$8.49</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=963&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">Candida Stop</a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=963&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/4821561657728.jpg" alt="" class="thumb" border="0"></a> </div><div>$41.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=566&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">A.Vogel Sinna Tabs</a><div class="new_prod_bg_2">
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=963&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="4821561657728.jpg" alt="" class="thumb" border="0"></a> </div><div>$41.99</div></div><div class="new_prod_box"> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=566&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">A.Vogel Sinna Tabs</a><div class="new_prod_bg_2">
 
-<span class="new_icon"><img src="./Shop Ship - Products_files/new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=566&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
-<img src="./Shop Ship - Products_files/6531545085726.jpg" alt="" class="thumb" border="0"></a> </div><div>$19.89</div></div><a class="more" href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=0&amp;featureid=2&#39;">- more products -</a>
+<span class="new_icon"><img src="new_icon.gif" alt=""></span> <a href="javascript:void(0)" onclick="window.location.href=&#39;proddetails.php?prodid=566&amp;qtytoorder=1&amp;fromprodpg=3&amp;onsaleavailable=0&#39;">
+<img src="6531545085726.jpg" alt="" class="thumb" border="0"></a> </div><div>$19.89</div></div><a class="more" href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=0&amp;featureid=2&#39;">- more products -</a>
 
         <!-- <div class="new_prod_box"> <a href="#">product name</a>
           <div class="new_prod_bg"> <span class="new_icon"><img src="images/promo_icon.gif" alt="" /></span> <a href="#"><img src="images/thumb1.gif" alt="" class="thumb" border="0" /></a> </div>
@@ -1182,7 +1182,7 @@ function gotoshoppingcart() {
       <div class="right_box mobile_hide">
 
 
-	   <div class="title mobile_hide"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet6.gif" alt=""></span>Features</div>
+	   <div class="title mobile_hide"><span class="title_icon"><img src="bullet6.gif" alt=""></span>Features</div>
 			<ul class="list">
 			  <li><a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=0&amp;featureid=1&amp;callfrom=2&#39;">On Sale</a></li>
 			  <li><a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=0&amp;featureid=2&amp;callfrom=2&#39;">New Arrival</a></li>
@@ -1193,14 +1193,14 @@ function gotoshoppingcart() {
 
 
 
-        <div class="title"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet5.gif" alt=""></span>Products</div>
+        <div class="title"><span class="title_icon"><img src="bullet5.gif" alt=""></span>Products</div>
 
 		<ul class="list"><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=0&amp;featureid=0&amp;callfrom=1&#39;">All Categories</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=31&amp;featureid=0&amp;callfrom=1&#39;">Baby&amp;Kids</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=24&amp;featureid=0&amp;callfrom=1&#39;">Food</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=28&amp;featureid=0&amp;callfrom=1&#39;">House &amp; Home</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=26&amp;featureid=0&amp;callfrom=1&#39;">Medicine&amp;Nutritions</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=27&amp;featureid=0&amp;callfrom=1&#39;">Personal Care</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=25&amp;featureid=0&amp;callfrom=1&#39;">Toys</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?cateid=37&amp;featureid=0&amp;callfrom=1&#39;">FillUp</a></li></ul>
          <!-- <div class="title"><span class="title_icon"><img src="images/bullet5.gif" alt="" /></span>Providers</div>
 
 		<ul class="list"><li > <a  href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=0&featureid=0&callfrom=4'">All Providers</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=2&featureid=0&callfrom=4'" >Costco</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=6&featureid=0&callfrom=4'" >Hudsons Bay</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=5&featureid=0&callfrom=4'" >Others</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=8&featureid=0&callfrom=4'" >SumSumHong</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=4&featureid=0&callfrom=4'" >SuperStore</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=3&featureid=0&callfrom=4'" >TheBodyShop</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=7&featureid=0&callfrom=4'" >VIP Shoppers</a></li><li > <a href="javascript:void(0)" onclick="window.location.href='productlist.php?vendorid=1&featureid=0&callfrom=4'" >WalMart</a></li></ul> -->
 
-       <div class="title"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet5.gif" alt=""></span>Brands</div>
+       <div class="title"><span class="title_icon"><img src="bullet5.gif" alt=""></span>Brands</div>
 
 		<ul class="list"><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=0&amp;featureid=0&amp;callfrom=3&#39;">All Brands</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=53&amp;featureid=0&amp;callfrom=3&#39;">A.Vogel</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=40&amp;featureid=0&amp;callfrom=3&#39;">allKiDz</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=12&amp;featureid=0&amp;callfrom=3&#39;">Animal Parade</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=79&amp;featureid=0&amp;callfrom=3&#39;">AOR</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=10&amp;featureid=0&amp;callfrom=3&#39;">Aveeno</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=75&amp;featureid=0&amp;callfrom=3&#39;">Bad Air</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=73&amp;featureid=0&amp;callfrom=3&#39;">BADGER</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=84&amp;featureid=0&amp;callfrom=3&#39;">BELL</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=66&amp;featureid=0&amp;callfrom=3&#39;">BELLA TUNNO</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=27&amp;featureid=0&amp;callfrom=3&#39;">Bill</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=16&amp;featureid=0&amp;callfrom=3&#39;">BOIRON</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=39&amp;featureid=0&amp;callfrom=3&#39;">Burts Bees</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=29&amp;featureid=0&amp;callfrom=3&#39;">Canada True</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=37&amp;featureid=0&amp;callfrom=3&#39;">CanPrev</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=82&amp;featureid=0&amp;callfrom=3&#39;">Centrum</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=43&amp;featureid=0&amp;callfrom=3&#39;">Child Life</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=64&amp;featureid=0&amp;callfrom=3&#39;">Citrobug</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=44&amp;featureid=0&amp;callfrom=3&#39;">comotomo</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=30&amp;featureid=0&amp;callfrom=3&#39;">Culturelle</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=81&amp;featureid=0&amp;callfrom=3&#39;">Ddrops</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=69&amp;featureid=0&amp;callfrom=3&#39;">DermaE</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=57&amp;featureid=0&amp;callfrom=3&#39;">Dizolve</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=35&amp;featureid=0&amp;callfrom=3&#39;">earth mama</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=62&amp;featureid=0&amp;callfrom=3&#39;">flapjackkids</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=54&amp;featureid=0&amp;callfrom=3&#39;">Flora</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=56&amp;featureid=0&amp;callfrom=3&#39;">FOREO/LUNA</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=45&amp;featureid=0&amp;callfrom=3&#39;">Green Beaver</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=4&amp;featureid=0&amp;callfrom=3&#39;">HealthBalance</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=18&amp;featureid=0&amp;callfrom=3&#39;">Herbal Glo</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=19&amp;featureid=0&amp;callfrom=3&#39;">Herbatint</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=28&amp;featureid=0&amp;callfrom=3&#39;">Himalaya</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=78&amp;featureid=0&amp;callfrom=3&#39;">Holista</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=58&amp;featureid=0&amp;callfrom=3&#39;">InfiniteAloe</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=7&amp;featureid=0&amp;callfrom=3&#39;">IRONKIDS</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=2&amp;featureid=0&amp;callfrom=3&#39;">Jamieson</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=59&amp;featureid=0&amp;callfrom=3&#39;">JELLYCAT</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=1&amp;featureid=0&amp;callfrom=3&#39;">KIRKLAND</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=60&amp;featureid=0&amp;callfrom=3&#39;">LA TOURANGELLE</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=47&amp;featureid=0&amp;callfrom=3&#39;">Lavilin</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=15&amp;featureid=0&amp;callfrom=3&#39;">Lego</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=83&amp;featureid=0&amp;callfrom=3&#39;">LeSeven</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=65&amp;featureid=0&amp;callfrom=3&#39;">Lysine</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=68&amp;featureid=0&amp;callfrom=3&#39;">MANHATTAN</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=22&amp;featureid=0&amp;callfrom=3&#39;">Maplelife</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=26&amp;featureid=0&amp;callfrom=3&#39;">Medallion</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=77&amp;featureid=0&amp;callfrom=3&#39;">MEDERMA</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=33&amp;featureid=0&amp;callfrom=3&#39;">Moroccanoil</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=76&amp;featureid=0&amp;callfrom=3&#39;">Mustela</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=86&amp;featureid=0&amp;callfrom=3&#39;">NaturalWellbeing</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=48&amp;featureid=0&amp;callfrom=3&#39;">NEOCELL</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=6&amp;featureid=0&amp;callfrom=3&#39;">Nestle</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=20&amp;featureid=0&amp;callfrom=3&#39;">New Chapter</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=85&amp;featureid=0&amp;callfrom=3&#39;">New Roots</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=25&amp;featureid=0&amp;callfrom=3&#39;">Nordic Naturals</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=36&amp;featureid=0&amp;callfrom=3&#39;">NutriPur</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=13&amp;featureid=0&amp;callfrom=3&#39;">Organika</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=8&amp;featureid=0&amp;callfrom=3&#39;">Others</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=41&amp;featureid=0&amp;callfrom=3&#39;">Platinum naturals</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=51&amp;featureid=0&amp;callfrom=3&#39;">Progressive</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=55&amp;featureid=0&amp;callfrom=3&#39;">RenewLife</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=46&amp;featureid=0&amp;callfrom=3&#39;">Salus</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=70&amp;featureid=0&amp;callfrom=3&#39;">Santevia</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=63&amp;featureid=0&amp;callfrom=3&#39;">SATYA</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=49&amp;featureid=0&amp;callfrom=3&#39;">Similasan</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=31&amp;featureid=0&amp;callfrom=3&#39;">Spektrum</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=80&amp;featureid=0&amp;callfrom=3&#39;">StFrancis Herb</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=74&amp;featureid=0&amp;callfrom=3&#39;">SURO/Sambucol</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=71&amp;featureid=0&amp;callfrom=3&#39;">Swiss Naturals</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=32&amp;featureid=0&amp;callfrom=3&#39;">The Body Shop</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=67&amp;featureid=0&amp;callfrom=3&#39;">Thera Wise</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=72&amp;featureid=0&amp;callfrom=3&#39;">THERMOS</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=52&amp;featureid=0&amp;callfrom=3&#39;">ThinkBaby</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=61&amp;featureid=0&amp;callfrom=3&#39;">Treehouse</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=34&amp;featureid=0&amp;callfrom=3&#39;">Vitafusion</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=21&amp;featureid=0&amp;callfrom=3&#39;">VSC</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=3&amp;featureid=0&amp;callfrom=3&#39;">Webber Naturals</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=42&amp;featureid=0&amp;callfrom=3&#39;">Wendell</a></li><li> <a href="javascript:void(0)" onclick="window.location.href=&#39;productlist.php?brandid=50&amp;featureid=0&amp;callfrom=3&#39;">XLEAR</a></li></ul>
 
@@ -1226,7 +1226,7 @@ function gotoshoppingcart() {
 	<!-- promo and about  -->
 
 		  <div class="clear"></div>
-		  <div class="title mobile_hide"><span class="title_icon"><img src="./Shop Ship - Products_files/bullet3.gif" alt=""></span>About Our Shop</div>
+		  <div class="title mobile_hide"><span class="title_icon"><img src="bullet3.gif" alt=""></span>About Our Shop</div>
 		  
 		  <div class="about mobile_hide">
 			<!-- <p> <a href="javascript:void(0)" onclick="window.location.href='about.php'"><img src="images/about.jpg" alt="" class="right" /></a> -->
@@ -1252,7 +1252,7 @@ function gotoshoppingcart() {
 
 
   <div id="div_footer" class="footer">
-    <div class="left_footer"><img src="./Shop Ship - Products_files/footer_logo.gif" alt=""><br>
+    <div class="left_footer"><img src="footer_logo.gif" alt=""><br>
      <!--  <a  href="javascript:void(0)" onclick="window.location.href='index.php'"><img src="images/csscreme.gif" alt="" border="0" /></a> -->
 	   <p><font color="gray">© 2017. All rights reserved.</font></p>
 	  </div>
